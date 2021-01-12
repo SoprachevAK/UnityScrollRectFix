@@ -27,6 +27,7 @@ Simple tool to fix inertia standard ScrollRect component
 
 ## Usage
 AS->Tools->ScrollRect->Fix --- to fix scroll rect inertia
+
 AS->Tools->ScrollRect->Restore --- to restore scroll rect
 
 <!-- DOC-END -->
