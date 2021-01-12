@@ -1,0 +1,21 @@
+{
+  "name": "com.soprachevak.scroll-rect-fix",
+  "version": "1.0.0",
+  "displayName": "ScrollRect fix",
+  "description": "Fix standart unity scroll rect. Set correct inertia calculation",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0"
+  },
+  "keywords": [
+    "UI",
+    "Scroll",
+    "ScrollRect",
+    "Fix"
+  ],
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@mail.ru",
+    "url": "https://soprachev.com"
+  },
+  "unity": "2019.4"
+}
